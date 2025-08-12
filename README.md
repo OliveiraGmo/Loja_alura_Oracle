@@ -1,24 +1,37 @@
+##Loja Alura & Oracle - E-commerce
+Este repositório contém o projeto de uma loja virtual, desenvolvido como parte da formação da Escola Front-end Alura em parceria com o programa Oracle ONE. O objetivo do projeto foi aplicar e consolidar conhecimentos de front-end para criar uma interface de e-commerce funcional e responsiva.
 
-## 📌 Objetivos
+##💻 Sobre o Projeto
+A Loja Alura & Oracle é uma simulação de uma loja virtual, que serve como uma demonstração das minhas habilidades em desenvolvimento web. O projeto inclui a estrutura de uma página principal de e-commerce, com exibição de produtos, e o uso de conceitos básicos de layout e interatividade.
 
-- Avaliar o desempenho financeiro de cada loja  
-- Analisar o comportamento de vendas por categoria  
-- Observar as avaliações dos consumidores  
-- Identificar produtos com maior e menor giro  
-- Avaliar o custo médio de frete  
-- Verificar a distribuição geográfica de cada loja  
-- Indicar qual loja apresenta menor potencial e deve ser vendida
+##✨ Funcionalidades
+Página Principal de E-commerce: Layout principal de uma loja online, com seções dedicadas a diferentes categorias de produtos.
 
----
+##Exibição de Produtos: Apresentação de produtos com imagens, nomes e preços.
 
-## 📈 Resultados Principais
+##Responsividade: O design é adaptado para diferentes tamanhos de tela, proporcionando uma boa experiência de usuário tanto em desktops quanto em dispositivos móveis.
 
-- **Loja 1**: Maior faturamento total  
-- **Loja 3**: Melhor avaliação média dos clientes  
-- **Loja 2**: Forte em nichos específicos, mas com baixa abrangência geográfica  
-- **Loja 4**: Apesar da maior cobertura nacional, apresenta o menor desempenho geral
+##Interatividade: Botões e links funcionais para navegação e visualização de produtos.
 
+##🛠️ Tecnologias Utilizadas
+##HTML5: Para a estrutura e marcação do conteúdo da página.
 
-## 📤 Conclusão
+##CSS3: Para a estilização e o layout visual.
 
-A **Loja 4** foi indicada como a menos promissora do portfólio, sendo a recomendação principal sua **venda estratégica**.
+##JavaScript: Para adicionar interatividade e dinamismo à interface, como a navegação entre as seções.
+
+##▶️ Como Visualizar o Projeto
+Para visualizar este projeto em seu navegador, siga os passos abaixo:
+
+Clone este repositório para sua máquina local.
+
+git clone https://docs.github.com/articles/referencing-and-citing-content
+
+Navegue até a pasta do projeto.
+
+cd Loja_alura_Oracle
+
+#Abra o arquivo index.html em seu navegador de internet preferido.
+
+##🎓 Desenvolvido como parte da formação:
+Data Scient Oracle One
